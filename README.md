@@ -10,9 +10,9 @@ Basic web page focused on the visualization and data management of a hospital us
 ***Note: All information used is fictitious. Images and links are not linked to this page at all. Its use is simply to give a better perspective of the page.***
 
 ### Authors - Git Usernames
-- FranckUI
-- isaoPastelin
-- TYNIP
+- [FranckUI](https://github.com/FranckUI)
+- [isaoPastelin](https://github.com/isaoPastelin)
+- [TYNIP](https://github.com/TYNIP)
 
 ### References:
 - Image by Dan Stiop: https://dribbble.com/shots/5945502-Cerberus/attachments/11146132?mode=media
