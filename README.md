@@ -8,6 +8,7 @@ Webpage: https://lrb3ko-arturo-morales.shinyapps.io/Hospital_Arkham_Management/
 
 - The page is designed to be able to read the csv file "Hospital-Simulator-Arkham.csv".
 - In order to see the image on the page it is necessary to create a folder called "www" and put the image there.
+- App with academic purposes
 
 ***Note: All information used is fictitious. Images and links are not linked to this page at all. Its use is simply to give a better perspective of the page.***
 
